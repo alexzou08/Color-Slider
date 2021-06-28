@@ -1,0 +1,23 @@
+h1 {
+  font-family: arial;
+  color: mediumpurple;
+}
+
+body {
+  margin: 20px;
+}
+
+canvas {
+  width: 300pt;
+  height: 200pt;
+  margin: 10px;
+  border: 1px solid gray;  
+}
+
+input {
+  font-size: 20pt;
+}
+
+.purpleback {
+  background-color: mediumorchid;
+}
